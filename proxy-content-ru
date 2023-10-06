@@ -1,6 +1,6 @@
 # NAME: Proxy Finance Russia
 # AUTHOR: Misha Tugushev
-# REPO: https://github.com/ogienkoS/shadowrocket-configuration-file
+# REPO: https://github.com/ogienkoS/freeNET
 # UPDATED: 2023-06-19 22:49:55
 DOMAIN-SUFFIX,sso.ya.ru
 DOMAIN-SUFFIX,kinopoisk.ru
